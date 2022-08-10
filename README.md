@@ -1,5 +1,8 @@
 # Wrapper for hello-world
 
+<img width="1680" alt="eos-services" src="https://user-images.githubusercontent.com/68698872/183883952-a36066f5-b8ef-469f-9c74-d9c9128042f2.png">
+
+
 `hello-world` is a simple, minimal project to serve as a template for creating an app for the Embassy.
 
 ## Dependencies
